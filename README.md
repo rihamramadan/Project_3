@@ -18,5 +18,6 @@ random_forest_enron_trimmed.ipynb - Random Forest model using "Trimmed" dataset.
 
 enron_graphs - Code to create Matplotlib graphs for data exploration.
 
-enron_SVM.ipynb - SVM model used on "Numeric" dataset.
+enron_KNN_numeric.ipynb - K Nearest Neighbor for Numeric data
 
+enron_KNN_Trimmed.ipynb - K Nearest Neightbor for Trimmed data
