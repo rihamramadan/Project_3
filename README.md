@@ -23,4 +23,4 @@ enron_KNN_Trimmed.ipynb - K Nearest Neightbor for Trimmed data
 
 
 # Important Note about the SNA Data File
-SNA data file was too large for Github and could not be configured as a Git Large File. Please access the dataset here: https://drive.google.com/file/d/1HkYoxy9JTKnvplz7W3Xq_k8YnTHwNKcx/view?usp=sharing
+The SNA data file was too large for Github and could not be configured as a Git Large File. Please access the dataset here: https://drive.google.com/file/d/1HkYoxy9JTKnvplz7W3Xq_k8YnTHwNKcx/view?usp=sharing
