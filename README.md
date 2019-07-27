@@ -19,3 +19,6 @@ enron_graphs - Code to create Matplotlib graphs for data exploration.
 enron_KNN_numeric.ipynb - K Nearest Neighbor for Numeric data
 
 enron_KNN_Trimmed.ipynb - K Nearest Neightbor for Trimmed data
+
+
+SNA data file was too large for Github and could not be configured as a Git Large File. Please access the dataset here: https://drive.google.com/file/d/1HkYoxy9JTKnvplz7W3Xq_k8YnTHwNKcx/view?usp=sharing
